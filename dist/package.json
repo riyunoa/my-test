@@ -1,0 +1,22 @@
+{
+  "name": "entity-picker",
+  "version": "1.0.0",
+  "description": "Entity picker",
+  "main": "entity-picker.umd.js",
+  "jsnext:main": "entity-picker.esm.js",
+  "module": "entity-picker.esm.js",
+  "types": "entity-picker.d.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "4.1.0",
+    "@angular/common": "4.1.0",
+    "@angular/compiler": "4.1.0",
+    "@angular/forms": "4.1.0",
+    "@angular/http": "4.1.0",
+    "@angular/platform-browser": "4.1.0",
+    "@angular/platform-browser-dynamic": "4.1.0",
+    "zone.js": "0.8.5",
+    "rxjs": "5.2.0"
+  }
+}
